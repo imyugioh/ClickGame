@@ -1,0 +1,31 @@
+{
+  "English": {
+    "alertTitle": "Alert",
+    "versionText": "This version is outdated",
+    "headerTitle": "Click Game",
+    "rememberText": "Remember orders!",
+    "howToPlayTitle": "About",
+    "howToPlayText": "\nClick \"Play\" and You should see the level select screen.\nJust select your level and Start!\nRemember the sequential order of numbers displaying on your screen and start!\nYou should select the sequential numbers from 1 as fast as possible.",
+    "levelSelectText": "LEVEL SELECT",
+    "easyText": "Level 1",
+    "mediumText": "Level 2",
+    "hardText": "Level 3",
+    "insaneText": "Level 4",
+    "impossibleText": "Level 5",
+    "levelText": "",
+    "modeText": "",
+    "noRecordText": "No Record",
+    "recordsHeaderTitle": "Records",
+    "startText": "START",
+    "stopText": "STOP",
+    "tryAgainText": "Try Again",
+    "highScoreText": "High Score",
+    "winText": "Awesome!",
+    "loseText": "Try Again!",
+    "newRecordText": "NEW RECORD!",
+    "settingHeaderTitle": "Settings",
+    "langSelectText": "Select Language",
+    "backText": "Back",
+    "elapsedText": "Time"
+  }
+}
